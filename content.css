@@ -2,7 +2,7 @@
   --failed-bg-color: #d9534f;
 }
 
-.panel-default > .panel-heading.failed,
+.panel.failed > .panel-heading,
 tr.failed {
   background-color: var(--failed-bg-color);
   color: white;
