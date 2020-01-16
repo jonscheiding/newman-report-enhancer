@@ -8,6 +8,9 @@ This is a Chrome extension that provides some enhancements to Postman's Newman r
 
 A button will be added to the top of the report that allows you to highlight the failed tests.  They will be colored with a red header, and the non-failed tests will be collapsed.
 
+![Highlight Failures feature demo](doc/demo-highlightfailures.gif "Highlight Failures feature demo")
+
+
 ## Installation
 
 This extension is not in the Chrome extension store.  It must be installed manually.
