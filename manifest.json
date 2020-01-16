@@ -1,6 +1,6 @@
 {
-  "name": "Postman Test Results Helper",
-  "description": "Helps read the output from Postman command-line tests when there are failures.",
+  "name": "Newman Report Enhancer",
+  "description": "Provides additional interactivity to Newman reports to help identify failures more easily.",
   "version": "0.1",
   "manifest_version": 2,
   "author": "Jon Scheiding",
