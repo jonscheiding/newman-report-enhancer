@@ -1,0 +1,13 @@
+:root {
+  --failed-bg-color: #d9534f;
+}
+
+.panel-default > .panel-heading.failed,
+tr.failed {
+  background-color: var(--failed-bg-color);
+  color: white;
+}
+
+button[data-action='highlight-failures'] {
+  float: right;
+}
